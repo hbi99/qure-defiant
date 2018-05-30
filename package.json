@@ -1,0 +1,23 @@
+{
+  "name": "qure-defiant",
+  "version": "1.0.0",
+  "description": "Defiant wrapper for QureJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbi99/qure-defiant.git"
+  },
+  "author": "Hakan Bilgin <hbi@longscript.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbi99/qure-defiant/issues"
+  },
+  "homepage": "https://github.com/hbi99/qure-defiant#readme",
+  "dependencies": {
+    "defiant.js": "^1.4.5",
+    "puppeteer": "^1.4.0"
+  }
+}
