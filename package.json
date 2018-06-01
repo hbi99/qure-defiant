@@ -1,6 +1,6 @@
 {
   "name": "qure-defiant",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Defiant wrapper for QureJS",
   "engines": {
     "node": "9.2.0"
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/hbi99/qure-defiant#readme",
   "dependencies": {
     "defiant.js": "^1.4.5",
-    "puppeteer": "^1.4.0"
+    "puppeteer": "^1.4.0",
+    "qure": "^0.2.33"
   }
 }
